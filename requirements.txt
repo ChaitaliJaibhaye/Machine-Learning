@@ -1,0 +1,7 @@
+streamlit==1.38.0
+textblob==0.18.0.post0
+vaderSentiment==3.3.2
+nltk==3.9.1
+plotly==5.22.0
+pandas==2.2.3
+openpyxl==3.1.5
